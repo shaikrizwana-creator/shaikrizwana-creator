@@ -1,90 +1,74 @@
 
 <h1 align="center">Hi 👋, I'm Shaik Rizwana</h1>
-<h3 align="center">💻 CSE Student | 🚀 Future Full Stack Developer | ⚡ Hacker Style Profile</h3>
+<h3 align="center">Computer Science Engineering Student | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Python+Developer;React+Learner;Web+Developer;App+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Web+Developer;React+Learner;Python+Programmer;Future+Software+Engineer" />
 </p>
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
-```python
-class ShaikRizwana:
-
-    def __init__(self):
-        self.name = "Shaik Rizwana"
-        self.role = "CSE Student"
-        self.language_spoken = ["Python", "Java", "HTML", "React"]
-        self.interests = ["Web Development", "App Development", "Coding"]
-        self.current_status = "Building skills and projects 🚀"
-
-me = ShaikRizwana()
-````
+- 🎓 Pursuing Computer Science Engineering  
+- 💻 Interested in Web Development and App Development  
+- 🌱 Currently learning React and Full Stack Development  
+- 🚀 Passionate about building creative and real-world projects  
+- 📚 Exploring new technologies and improving coding skills  
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Skills & Technologies
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,react,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shaikrizwana&show_icons=true&theme=chartreuse-dark" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikrizwana&layout=compact&theme=chartreuse-dark" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shaikrizwana&show_icons=true&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikrizwana&layout=compact&theme=default" height="170"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shaikrizwana&theme=chartreuse-dark" />
+<img src="https://streak-stats.demolab.com?user=shaikrizwana&theme=default" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Achievements
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🏆 Achievements
-
-🏅 Hackathon Participant
-🏅 Tech Certifications
-🏅 Passionate Coder
-🏅 Learning Full Stack Development
+- ✅ Participated in Hackathons  
+- ✅ Completed Technical Certifications  
+- ✅ Actively Learning Modern Web Technologies  
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shaikrizwana&label=Profile+Views&color=00ff00&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shaikrizwana&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">⚡ “Code. Learn. Build. Repeat.” ⚡</h3>
+<h3 align="center">“Learning, Building, and Growing Every Day.”</h3>
+
+
+
+
