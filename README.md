@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Shaik Rizwana</h1>
 <h3 align="center">💻 CSE Student | 🚀 Future Full Stack Developer | ⚡ Hacker Style Profile</h3>
 
@@ -88,4 +88,3 @@ me = ShaikRizwana()
 ---
 
 <h3 align="center">⚡ “Code. Learn. Build. Repeat.” ⚡</h3>
-```
